@@ -28,3 +28,7 @@ h2{
     width: 400px;
     height: auto;
 }
+
+.texto{
+    max-width: 1200px;
+}
