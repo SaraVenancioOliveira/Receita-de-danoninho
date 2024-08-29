@@ -2,7 +2,7 @@
 
 
 body{
-    background-color: #e296ad;
+    background-color: #d37f98;
     font-size: 20px;
     color: rgba(255, 255, 255, 0.959);
     margin: 20px;
@@ -23,6 +23,6 @@ h2{
     color: #d3567b;
 }
 .img{ 
-    border: ;
+  width: 50%;
 }
 
