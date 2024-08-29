@@ -24,10 +24,13 @@ h2{
     color: #d3567b;
 }
 
+.imagem{
+    margin: auto;
+}
+
 .imagem img{
     width: 650px;
     height: auto;
-    margin: auto;
 }
 
 .texto{
