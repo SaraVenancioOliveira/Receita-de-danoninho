@@ -32,3 +32,8 @@ h2{
 .texto{
     max-width: 350px;
 }
+
+.secao{
+    display: flex;
+    margin: auto;
+}
